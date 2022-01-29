@@ -1,1 +1,2 @@
 # odin-recipes
+My current project is to create a functional website using HTML. This website will include the creation of a few local pages, include text features, and will overall demonstrate basic understanding of how to establish a website.
